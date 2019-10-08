@@ -18,4 +18,6 @@ const rxjsConfig = {
 setObservableConfig(rxjsConfig);
 
 
+// Comentário
+
 export default Home;
